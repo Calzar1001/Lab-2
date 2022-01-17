@@ -19,7 +19,7 @@
             <button name="action" value="sub">-</button>
             <button name="action" value="mult">*</button>
             <button name="action" value="rem">%</button>
-            <p> <label ${visible} value="result"> Result: ---</label>
+			<br>
                  ${message}
                 <br>
                 <a href="#age">Age Calculator</a>
